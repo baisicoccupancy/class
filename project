@@ -1,0 +1,34 @@
+<!--
+
+Name: Kareem Tunstall
+
+Course: IT150-44 Web Design
+
+Professor: Taoufik Ennoure
+
+Date: 01/29/2024
+
+Assignment: Web Images Lab
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Images Lab</title>
+</head>
+<body>
+
+    <!-- PNG Image -->
+    <img src="path/to/your/image.png" alt="PNG Image" title="PNG Image Description">
+
+    <!-- JPG Image (Optimized for the web) -->
+    <img src="path/to/your/image.jpg" alt="JPG Image" title="JPG Image Description">
+
+    <!-- GIF Image -->
+    <img src="path/to/your/image.gif" alt="GIF Image" title="GIF Image Description">
+
+</body>
+</html>
